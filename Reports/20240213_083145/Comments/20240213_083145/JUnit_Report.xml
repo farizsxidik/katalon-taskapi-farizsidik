@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Comments" time="10.674" tests="3" failures="0" errors="0">
+   <testsuite name="Comments" tests="3" failures="0" errors="0" time="10.674" skipped="0" timestamp="13-02-2024T08:31:46" hostname="farizsidik - localhost" id="Test Suites/Comments">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/farizsidik/git/katalon-taskapi-farizsidik/Reports/20240213_083145/Comments/20240213_083145"/>
+         <property name="logFiles" value="/Users/farizsidik/git/katalon-taskapi-farizsidik/Reports/20240213_083145/Comments/20240213_083145/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="farizsidik - localhost"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="9.3.0.212"/>
+      </properties>
+      <testcase name="Test Cases/Comments/DEL ID 9" time="4.072" classname="Test Cases/Comments/DEL ID 9" status="PASSED">
+         <system-out><![CDATA[13-02-2024T08:31:46 - [TEST_CASE][PASSED] - Test Cases/Comments/DEL ID 9: Test Cases/Comments/DEL ID 9
+
+13-02-2024T08:31:46 - [TEST_STEP][PASSED] - sendRequestAndVerify(findTestObject("Comments/DEL ID 9")): Send request and verify the response successfully
+
+13-02-2024T08:31:48 - [MESSAGE][INFO] - HAR: /Users/farizsidik/git/katalon-taskapi-farizsidik/Reports/20240213_083145/Comments/20240213_083145/requests/main/0.har
+
+13-02-2024T08:31:48 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+13-02-2024T08:31:48 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+13-02-2024T08:31:48 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+13-02-2024T08:31:48 - [MESSAGE][PASSED] - Verify response successfully
+
+13-02-2024T08:31:48 - [MESSAGE][PASSED] - All validation steps have been passed
+
+13-02-2024T08:31:48 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+13-02-2024T08:31:50 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Comments/DEL ID 9' .
+
+13-02-2024T08:31:50 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Comments/DEL ID 9' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Comments/GET ID 2" time="3.232" classname="Test Cases/Comments/GET ID 2" status="PASSED">
+         <system-out><![CDATA[13-02-2024T08:31:50 - [TEST_CASE][PASSED] - Test Cases/Comments/GET ID 2: Test Cases/Comments/GET ID 2
+
+13-02-2024T08:31:50 - [TEST_STEP][PASSED] - sendRequestAndVerify(findTestObject("Comments/GET ID 2")): Send request and verify the response successfully
+
+13-02-2024T08:31:51 - [MESSAGE][INFO] - HAR: /Users/farizsidik/git/katalon-taskapi-farizsidik/Reports/20240213_083145/Comments/20240213_083145/requests/main/1.har
+
+13-02-2024T08:31:51 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+13-02-2024T08:31:51 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+13-02-2024T08:31:51 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+13-02-2024T08:31:51 - [MESSAGE][PASSED] - Verify response successfully
+
+13-02-2024T08:31:51 - [MESSAGE][PASSED] - All validation steps have been passed
+
+13-02-2024T08:31:51 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+13-02-2024T08:31:53 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Comments/GET ID 2' .
+
+13-02-2024T08:31:53 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Comments/GET ID 2' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Comments/POST ID 2" time="3.307" classname="Test Cases/Comments/POST ID 2" status="PASSED">
+         <system-out><![CDATA[13-02-2024T08:31:53 - [TEST_CASE][PASSED] - Test Cases/Comments/POST ID 2: Test Cases/Comments/POST ID 2
+
+13-02-2024T08:31:53 - [TEST_STEP][PASSED] - sendRequestAndVerify(findTestObject("Comments/POST ID 2", ["nama":"fariz", "email":"fariz@user.com", "body":"ini body"])): Send request and verify the response successfully
+
+13-02-2024T08:31:54 - [MESSAGE][INFO] - HAR: /Users/farizsidik/git/katalon-taskapi-farizsidik/Reports/20240213_083145/Comments/20240213_083145/requests/main/2.har
+
+13-02-2024T08:31:54 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+13-02-2024T08:31:54 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+13-02-2024T08:31:54 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+13-02-2024T08:31:54 - [MESSAGE][PASSED] - Verify response successfully
+
+13-02-2024T08:31:54 - [MESSAGE][PASSED] - All validation steps have been passed
+
+13-02-2024T08:31:54 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+13-02-2024T08:31:56 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Comments/POST ID 2' .
+
+13-02-2024T08:31:56 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Comments/POST ID 2' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[13-02-2024T08:31:46 - [TEST_SUITE][PASSED] - Comments: Test Cases/Comments/POST ID 2]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

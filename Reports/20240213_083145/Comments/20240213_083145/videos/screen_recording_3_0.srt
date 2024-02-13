@@ -1,0 +1,12 @@
+1
+00:00:00,011 --> 00:00:01,244
+1. sendRequestAndVerify(findTestObject("Comments/POST ID 2", ["nama":"fariz", "email":"fariz@user.com", "body":"ini body"]))
+
+2
+00:00:01,244 --> 00:00:01,244
+1. request = getInstance().getCurrentRequest()
+
+3
+00:00:01,244 --> 00:00:01,246
+5. response = getInstance().getCurrentResponse()
+

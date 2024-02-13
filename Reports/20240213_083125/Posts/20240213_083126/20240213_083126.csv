@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Posts,,,,13-02-2024 08:31:27,13-02-2024 08:31:39,12.112s,PASSED
+,,,,,,,
+Test Cases/Posts/DEL ID 12,,,,13-02-2024 08:31:27,13-02-2024 08:31:34,6.692s,PASSED
+"sendRequestAndVerify(findTestObject(""Posts/DEL ID 12""))",,,,13-02-2024 08:31:30,13-02-2024 08:31:32,1.559s,PASSED
+Video,,,,13-02-2024 08:31:34,13-02-2024 08:31:34,0.001s,PASSED
+,,,,,,,
+Test Cases/Posts/GET ID 1,,,,13-02-2024 08:31:34,13-02-2024 08:31:36,2.250s,PASSED
+"sendRequestAndVerify(findTestObject(""Posts/GET ID 1"", [""page"":""2""]))",,,,13-02-2024 08:31:34,13-02-2024 08:31:34,0.223s,PASSED
+Video,,,,13-02-2024 08:31:36,13-02-2024 08:31:36,0.000s,PASSED
+,,,,,,,
+Test Cases/Posts/POST ID 1,,,,13-02-2024 08:31:36,13-02-2024 08:31:39,3.107s,PASSED
+"sendRequestAndVerify(findTestObject(""Posts/POST ID"", [""title"":""ini"", ""body"":""fariz"", ""userId"":10]))",,,,13-02-2024 08:31:36,13-02-2024 08:31:37,1.056s,PASSED
+Video,,,,13-02-2024 08:31:39,13-02-2024 08:31:39,0.000s,PASSED

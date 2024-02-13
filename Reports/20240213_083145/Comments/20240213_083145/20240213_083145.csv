@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Comments,,,,13-02-2024 08:31:46,13-02-2024 08:31:56,10.674s,PASSED
+,,,,,,,
+Test Cases/Comments/DEL ID 9,,,,13-02-2024 08:31:46,13-02-2024 08:31:50,4.072s,PASSED
+"sendRequestAndVerify(findTestObject(""Comments/DEL ID 9""))",,,,13-02-2024 08:31:46,13-02-2024 08:31:48,1.815s,PASSED
+Video,,,,13-02-2024 08:31:50,13-02-2024 08:31:50,0.001s,PASSED
+,,,,,,,
+Test Cases/Comments/GET ID 2,,,,13-02-2024 08:31:50,13-02-2024 08:31:53,3.232s,PASSED
+"sendRequestAndVerify(findTestObject(""Comments/GET ID 2""))",,,,13-02-2024 08:31:50,13-02-2024 08:31:51,1.196s,PASSED
+Video,,,,13-02-2024 08:31:53,13-02-2024 08:31:53,0.000s,PASSED
+,,,,,,,
+Test Cases/Comments/POST ID 2,,,,13-02-2024 08:31:53,13-02-2024 08:31:56,3.307s,PASSED
+"sendRequestAndVerify(findTestObject(""Comments/POST ID 2"", [""nama"":""fariz"", ""email"":""fariz@user.com"", ""body"":""ini body""]))",,,,13-02-2024 08:31:53,13-02-2024 08:31:54,1.234s,PASSED
+Video,,,,13-02-2024 08:31:56,13-02-2024 08:31:56,0.000s,PASSED
